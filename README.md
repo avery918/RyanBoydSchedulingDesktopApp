@@ -1,2 +1,2 @@
 # SchedulingDesktopApp
- A scheduling Application made with java and javafx
+ A scheduling application made with java and javafx
